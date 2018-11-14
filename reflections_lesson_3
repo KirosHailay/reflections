@@ -2,3 +2,11 @@ When would you want to create remote repositary rather than keeping all local?
 i just start it .
 btw i wasnt expecting the reflect to be on github so i simply right something that doesn't match with question 
 sorry 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+i don't get it
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ fork is when you try to clone a github project to your account 
+ clone is when 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	  that's good
+
